@@ -1,5 +1,6 @@
 # An-Online-Book-Emporium
-![online-book-store](https://github.com/haritha-721/An-Online-Book-Emporium/assets/108216615/fe7eb27e-ba36-4bc9-b559-6c76ff3a1796)
+![bookshop](https://github.com/haritha-721/An-Online-Book-Emporium/assets/108216615/a06f5e40-09a0-42aa-91c5-90bfb86643f6)
+
 
 
 The online bookstore is a digital platform that provides readers with easy access to a wide selection of books across various genres. It offers a user-friendly interface for browsing, searching, and
